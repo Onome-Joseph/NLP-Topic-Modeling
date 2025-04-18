@@ -1,0 +1,6 @@
+genism
+nltk
+operator
+pprint
+wikipedia
+pyLDAvis.gensim
